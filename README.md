@@ -1,8 +1,8 @@
 ### 스마트 팩토리 설계도 중 APS 시스템, 재고관리 시스템 위주로 구축
 
 자세한 내용은 ppt 참고하시길 바랍니다.
+- 발표영상: https://www.youtube.com/watch?v=U2zhgZl9Igc
 - 콘크리트 혼화제 회사에서 제공받은 데이터를 활용하였습니다.
 - 한정된 데이터를 증식하여 활용
 - 시계열 모델을 활용한 수요 예측
 - Tableau를 통한 시각화 및 사용설명서 제작
-- 발표영상: https://www.youtube.com/watch?v=U2zhgZl9Igc
