@@ -1,5 +1,8 @@
 ### 스마트 팩토리 설계도 중 APS 시스템, 재고관리 시스템 위주로 구축
 
+![image](https://user-images.githubusercontent.com/96767467/168734234-0495ba1f-bc34-441f-8608-a26c13b8b066.png)
+
+
 자세한 내용은 ppt 참고하시길 바랍니다.
 - 발표영상: https://www.youtube.com/watch?v=U2zhgZl9Igc
 - 콘크리트 혼화제 회사에서 제공받은 데이터를 활용하였습니다.
