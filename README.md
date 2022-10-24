@@ -21,7 +21,7 @@
 ## 1. 기획
 
 ### 1-1 비즈니스 이슈
-
+</br>
 <p align = 'center'>
 <img src = "https://user-images.githubusercontent.com/96767467/197486303-3a25f9da-5093-4ff0-8733-60b17f7be90e.png" width = "95%" height = "600">
 </p>
