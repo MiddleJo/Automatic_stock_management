@@ -13,7 +13,7 @@
 
 [1. 기획 및 과제 정의](#1-기획)</br>
 [2. 모델링](#2-모델링)</br>
-[3. 시각화 및 기대효과](#3-군집화-및-인사이트-도출)</br>
+[3. 시각화 및 기대효과](#3-활용방안-및-기대효과)</br>
 </br>
 
 ---
@@ -21,20 +21,19 @@
 ## 1. 기획
 
 ### 1-1 비즈니스 이슈
-</br>
 <p align = 'center'>
 <img src = "https://user-images.githubusercontent.com/96767467/197486303-3a25f9da-5093-4ff0-8733-60b17f7be90e.png" width = "95%" height = "600">
-</p>
+    </p>
 <P>
 이번 과제를 받은 회사는 콘크리트 혼화제 유통 회사로, 생산계획 및 원자재 발주 부분에서 대부분의 문제들이 발생하고 있었습니다.
-</p>
+    </p>
 </br>
 <p>
 <img src = "https://user-images.githubusercontent.com/96767467/197487193-9b81e875-98af-4384-bbae-615861b92136.png" width = "95%" height = "600">
-</p>
+    </p>
 <p> 
 위와 같은 메인 이슈들을 확인하였고, APS시스템을 도입하는 솔루션을 기획하였습니다.
-<p>
+    </p>
 </br>
 
 ### 1-2 과제 정의
@@ -55,42 +54,69 @@ APS시스템은 수요 예측을 통해 생산계획 및 자원소요계획에 �
 ### 2-1 시스템 요약도
 
 <p align = 'center'>
-<img src = "https://user-images.githubusercontent.com/96767467/175251069-166e03e6-91cf-4766-82ee-c5c8e105e20d.png" align = 'center' width = "95%" height = "600">
+<img src = "https://user-images.githubusercontent.com/96767467/197506297-cc7ae876-6c5f-4fda-b524-b24285bd2f32.PNG" align = 'center' width = "95%" height = "600">
 </p>
+
 </br>
 
-### 2-2 변수 개발
+### 2-2 데이터 마트 구축
 
 <p align = 'center'>
-<img src = "https://user-images.githubusercontent.com/96767467/175251614-564230f4-f2c4-4a24-a3c0-f4984e43cc26.png" width = "48%" height = "300">
-<img src = "https://user-images.githubusercontent.com/96767467/175251678-1b1fa22d-4beb-4025-9a4e-37f3b83ba8e9.png" width = "48%" height = "300">
+<img src = "https://user-images.githubusercontent.com/96767467/197506479-b9f0e7b5-f754-4507-981e-612df49386a1.PNG" width = "48%" height = "300">
+<img src = "https://user-images.githubusercontent.com/96767467/197506489-fbf59ebd-7625-44de-af33-1de731e579d9.PNG" width = "48%" height = "300">
 </p>
 <p>
-제휴사별 카테고리를 통합 카테고리로 재분류하고, 변수를 개발합니다.  
-변수는 다중공선성 문제가 없도록 상관도를 고려하여 재선정하고, 오른쪽 사진과 같이 구성되었습니다.  
+통일성 없이 흩어진 데이터를 오류 수정 후 통합하여 가공합니다.  
+이 때 기상청, 건축 착공면적 등의 필요한 외부 데이터도 함께 업데이트 됩니다.
 </p>
 </br>
    
-### 2-3 모델 선정
+### 2-3 변수 정의
 
 <p align = 'center'>
-<img src = "https://user-images.githubusercontent.com/96767467/175253738-61d12605-e7f5-491e-a692-d41f083f91cf.png" width = "48%" height = "300">
-<img src = "https://user-images.githubusercontent.com/96767467/175253773-0c1557e9-b174-4f74-b0a7-a2c51eed4a1e.png" width = "48%" height = "300">
+<img src = "https://user-images.githubusercontent.com/96767467/197507093-d132e538-ce06-4a38-be03-ead976ea0c5f.PNG" align = 'center' width = "95%" height = "600">
 </p>
 <p>
-유의 고객을 예측하는 분류 모델을 선정하기 위해 평가지표들을 확인합니다.</br>
-2년 중 7분기분을 train 데이터와 validation 데이터로 나누어 모델을 구성하였고, 8분기를 test 데이터로 활용하였습니다.</br>
-오른쪽 사진 내용과 같이 XGBoost를 선택하였습니다.</br>
+수요 예측은 위와 같은 형태로 진행됩니다.  
+판매량만을 가지고 예측하면 신뢰도가 떨어지므로, 판매량과 관련있는 외부 변수를 정의하고 시계열 모델을 통해 외부 변수를 예측한 뒤 회귀모델을 통해 다시 판매량을 예측합니다.
+    </p>
+<p align = 'center'>
+<img src = "https://user-images.githubusercontent.com/96767467/197507707-5e067701-4409-4568-b6ad-84cf0bc3cdf5.PNG" width = "48%" height = "300">
+<img src = "https://user-images.githubusercontent.com/96767467/197507717-8ecf503b-558a-4f6d-af57-4c46e5818e9b.PNG" width = "48%" height = "300">
+</p>
+<p>
+도메인 지식에 따라 온도, 습도, 강수량, 신적설량이 변수로 선정되었습니다.</br>
+추가적으로 건설경기 동행지표인 건축 착공면적을 변수로 선정하였습니다.</br>
+</p>
+</br>
+
+### 2-4 모델 선택
+
+<p align = 'center'>
+<img src = "https://user-images.githubusercontent.com/96767467/197508593-0a34f69b-575d-4c4f-a606-2a310256fd5b.PNG" align = 'center' width = "95%" height = "600">
+<p>
+외부 변수들을 시계열 모델인 Auto ARIMA와 GRU모델을 통해 증강하고 검증한 R2 스코어는 위와 같고, Auto ARIMA 모델을 최종 선택 하였습니다.
+    </p>
+</p>
+<p align = 'center'>
+<img src = "https://user-images.githubusercontent.com/96767467/197508911-253c7ae4-07e6-4aa4-87fe-a538f9e914a7.PNG" align = 'center' width = "95%" height = "600">
+</p>
+<p>
+이제 회귀 모델을 사용하여 판매량을 예측, 검증한 결과입니다.
+최종적으로 LGBM 모델을 사용하였고, 감에 의존하던 발주의 오차보다 2배 이상 개선되었습니다.
 </p>
 
 </br>
 </br>
    
-## 3. 군집화 및 인사이트 도출
+## 3. 활용방안 및 기대효과
 
 ### 3-1 군집 개수 선정
 
-<img src = "https://user-images.githubusercontent.com/96767467/175255644-5c000aba-0193-40a1-a7b1-246cebc00fb3.png" align = 'center' width = "95%" height = "600">
+<p align = 'center'>
+<img src = "https://user-images.githubusercontent.com/96767467/197507707-5e067701-4409-4568-b6ad-84cf0bc3cdf5.PNG" width = "48%" height = "300">
+<img src = "https://user-images.githubusercontent.com/96767467/197507717-8ecf503b-558a-4f6d-af57-4c46e5818e9b.PNG" width = "48%" height = "300">
+</p>
 </br>
 
 <p>
