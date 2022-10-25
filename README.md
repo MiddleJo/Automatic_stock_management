@@ -179,7 +179,7 @@ APS시스템은 수요 예측을 통해 생산계획 및 자원소요계획에 �
 
 - 조남현(CHO NAM HYEON)</br>
 - 변수 개발, 시계열 모델</br></br>
-MAIL : chonh0531@gmail.com
+MAIL : chonh0531@gmail.com</br>
 Github : https://github.com/MiddleJo </br>
 
 ----
@@ -187,7 +187,7 @@ Github : https://github.com/MiddleJo </br>
 
 - 박광민(PARK KWAMG MIN)</br>
 - DB구축, 발주 자동화</br></br>
-MAIL : qkrrhk@gmail.com
+MAIL : qkrrhk@gmail.com</br>
 Github : https://github.com/KMP94</br>
 
 ----
@@ -195,7 +195,7 @@ Github : https://github.com/KMP94</br>
 
 - 김기현(KIM GI HYUN)</br>
 - 변수 개발, 시계열 모델</br></br>
-MAIL : luckyboy3214@naver.com
+MAIL : luckyboy3214@naver.com</br>
 Github : https://github.com/spiner321</br>
 
 ----
@@ -203,7 +203,7 @@ Github : https://github.com/spiner321</br>
 
 - 마경수(MAH KYUNG SOO)</br>
 - DB구축, 사용설명서</br></br>
-MAIL : kal198309@hanmail.net
+MAIL : kal198309@hanmail.net</br>
 Github : https://github.com/EDPS-7532</br>
 
 ----
@@ -211,7 +211,7 @@ Github : https://github.com/EDPS-7532</br>
 
 - 문성윤(MOON SEONG YUN)</br>
 - 시계열모델, PPT 제작</br></br>
-MAIL : msy7367@gmail.com
+MAIL : msy7367@gmail.com</br>
 Github : https://github.com/Syoon0710</br>
 
 ----
@@ -219,7 +219,7 @@ Github : https://github.com/Syoon0710</br>
 
 - 최종원(CHOI JONG WON)</br>
 - 시각화, 프레젠테이션</br></br>
-MAIL : joanna.jongwon.choi@gmail.com
+MAIL : joanna.jongwon.choi@gmail.com</br>
 Github : https://github.com/joannajongwonchoi</br>
 
 ----
