@@ -16,6 +16,7 @@
 [2. 모델링](#2-모델링)</br>
 [3. 활용방안 및 기대효과](#3-활용방안-및-기대효과)</br>
 [4. 데모 시연](#4-데모-시연)</br>
+[팀원 소개](#팀원-소개)</br>
 </br>
 
 ---
@@ -162,6 +163,7 @@ APS시스템은 수요 예측을 통해 생산계획 및 자원소요계획에 �
 </br>
 
 ## 4. 데모 시연
+![시연영상_16배속](https://user-images.githubusercontent.com/96767467/197757181-e0b51e02-8fc9-457e-87f7-20e905818d45.gif)
 
 <p>
 <img src = "https://user-images.githubusercontent.com/96767467/197756850-bacdd86f-82f5-4bb2-8912-b80c2595bc51.gif" align = 'center' width = 95% height = "53%">
