@@ -14,7 +14,8 @@
 
 [1. 기획 및 과제 정의](#1-기획)</br>
 [2. 모델링](#2-모델링)</br>
-[3. 시각화 및 기대효과](#3-활용방안-및-기대효과)</br>
+[3. 활용방안 및 기대효과](#3-활용방안-및-기대효과)</br>
+[4. 데모 시연](#4-데모-시연)</br>
 </br>
 
 ---
@@ -44,7 +45,7 @@
 <img src = "https://user-images.githubusercontent.com/96767467/197488578-5b0f5902-d6a5-4a42-910d-ac2f6719974d.PNG" width = "48%" height = "27%">
 </p>
 <p>
-APS시스템은 수요 예측을 통해 생산계획 및 자원소요계획에 대해 의사결정을 지원해주는 시스템입니다.  
+APS시스템은 수요 예측을 통해 생산계획 및 자원소요계획에 대해 의사결정을 지원해주는 시스템입니다.</br>
 감에 의존한 발주와 매일 수동으로 진행되는 재고 관리를 이 시스템을 이용하여 자동으로, 신뢰도 있게 처리하는 것을 목표로 합니다.  
 </p>
 </br>
@@ -111,4 +112,122 @@ APS시스템은 수요 예측을 통해 생산계획 및 자원소요계획에 �
 
 </br>
 </br>
----- 작성중 ----
+   
+## 3. 활용방안 및 기대효과
+
+### 3-1 생산 계획
+
+<p align = 'center'>
+<img src = "https://user-images.githubusercontent.com/96767467/197734915-b4ea6342-34fe-4799-8501-4974a98d44f5.PNG" align = 'center' width = "95%" height = "53%">
+</p>
+<p>
+저희의 솔루션에서 의사결정 지원은 2가지 방향성이 있습니다.</br>
+- 6개월 정도의 비교적 먼 미래의 투자계획</br>
+- 3개월 정도의 비교적 가까운 미래의 생산 계획</br>
+이 기간을 고려하여 각각 수요 예측을 진행할 것입니다.
+</p>
+</br>
+
+### 3-2 재고관리 및 발주 자동화
+
+<p align = 'center'>
+<img src = "https://user-images.githubusercontent.com/96767467/197737004-3f0d4a4d-ea0d-4770-a59a-4467fed72539.PNG" width = "48%" height = "27%">
+<img src = "https://user-images.githubusercontent.com/96767467/197737033-28e221e7-cdc9-4c45-8cc2-a436086eec52.PNG" width = "48%" height = "27%">
+</p>
+<p>
+재고관리는 리드타임과 안전 재고량을 고려하여야 합니다.</br>
+리드타임은 도메인 정보를, 안전 재고량은 오른쪽과 같이 정의하였습니다.</br>
+</p>
+</br>
+
+<p align = 'center'>
+<img src = "https://user-images.githubusercontent.com/96767467/197734915-b4ea6342-34fe-4799-8501-4974a98d44f5.PNG" align = 'center' width = "90%" height = "50%">
+</p>
+<p>
+위 두가지를 고려하여 생산관리 시스템(MES)가 자동으로 발주량을 산정해줍니다.
+</p>
+</br>
+
+
+### 3-3 기대효과
+
+<p>
+<img src = "https://user-images.githubusercontent.com/96767467/197737971-35588c52-cb1e-41ee-ac6b-dc9cde13bcef.PNG" align = 'center' width = 95% height = "53%">
+</p>
+<p>
+시스템을 도입하면 재고관리, 고객관리, 생산계획 수립에 걸리는 시간을 최소 1시간 30분가량 절약할 수 있습니다.</br>
+추가적으로 회의나 개인 업무시 시각화 도구를 통해 업무 효율이 비약적으로 상승합니다.
+</p>
+</br>
+</br>
+
+## 4. 데모 시연
+
+<p>
+<img src = "https://user-images.githubusercontent.com/96767467/197737971-35588c52-cb1e-41ee-ac6b-dc9cde13bcef.PNG" align = 'center' width = 95% height = "53%">
+</p>
+<p>
+시연 영상을 16배속으로 간단히 보여드립니다.</br>
+자세한 사항이 궁금하시면 [발표영상](https://www.youtube.com/watch?v=U2zhgZl9Igc) 참고해 주세요.
+</p>
+</br>
+</br>
+
+## 팀원 소개
+----
+<img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/96767467/175253262-f4614359-abd2-4839-b8d3-0f7b8dd32f53.jpg" />
+
+- 조남현(CHO NAM HYEON)<br><br><br><br><br>
+
+MAIL : chonh0531@gmail.com <br>
+
+Github : https://github.com/MiddleJo<br>
+
+----
+<img align="left" width="180" height="180"  src="https://user-images.githubusercontent.com/102858692/161480452-fc8d952a-b964-4b44-8a9b-b5eab3652f89.png"/>
+
+- 박광민(PARK KWAMG MIN)<br><br><br><br><br>
+
+MAIL : qkrrhk@gmail.com <br>
+
+Github : https://github.com/KMP94<br>
+
+----
+<img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/102858692/161481002-6c4f9f96-5ae6-4ea6-b2d0-d0a665b158fa.png"/>
+
+- 김기현(KIM GI HYUN)<br><br><br><br><br>
+
+MAIL : luckyboy3214@naver.com <br>
+
+Github : https://github.com/spiner321<br>
+
+----
+<img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/102858692/161481162-740c39fb-38d5-469c-9227-21fa9f0c6925.png" />
+
+- 마경수(MAH KYUNG SOO)<br><br><br><br><br>
+
+MAIL : kal198309@hanmail.net <br>
+
+Github : https://github.com/EDPS-7532<br>
+
+----
+
+<img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/102858692/161481240-b1c40cae-21bb-41b4-922d-d34857eaaf58.png"/>
+
+- 문성윤(MOON SEONG YUN)<br><br><br><br><br>
+
+MAIL : msy7367@gmail.com <br>
+
+Github : https://github.com/Syoon0710<br>
+
+----
+
+<img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/102858692/161481322-ec6afce7-e8b6-4355-9680-0526d9df6b21.png" />
+
+- 최종원(CHOI JONG WON)<br><br><br><br><br>
+
+MAIL : joanna.jongwon.choi@gmail.com <br>
+
+Github : https://github.com/joannajongwonchoi<br>
+
+----
