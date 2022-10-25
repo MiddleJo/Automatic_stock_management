@@ -80,6 +80,7 @@ APS시스템은 수요 예측을 통해 생산계획 및 자원소요계획에 �
 수요 예측은 위와 같은 형태로 진행됩니다.  
 판매량만을 가지고 예측하면 신뢰도가 떨어지므로, 판매량과 관련있는 외부 변수를 정의하고 시계열 모델을 통해 외부 변수를 예측한 뒤 회귀모델을 통해 다시 판매량을 예측합니다.
     </p>
+</br>
 <p align = 'center'>
 <img src = "https://user-images.githubusercontent.com/96767467/197507707-5e067701-4409-4568-b6ad-84cf0bc3cdf5.PNG" width = "48%" height = "27%">
 <img src = "https://user-images.githubusercontent.com/96767467/197507717-8ecf503b-558a-4f6d-af57-4c46e5818e9b.PNG" width = "48%" height = "27%">
@@ -94,10 +95,11 @@ APS시스템은 수요 예측을 통해 생산계획 및 자원소요계획에 �
 
 <p align = 'center'>
 <img src = "https://user-images.githubusercontent.com/96767467/197508593-0a34f69b-575d-4c4f-a606-2a310256fd5b.PNG" align = 'center' width = "95%" height = "53%">
+</p>
 <p>
 외부 변수들을 시계열 모델인 Auto ARIMA와 GRU모델을 통해 증강하고 검증한 R2 스코어는 위와 같고, Auto ARIMA 모델을 최종 선택 하였습니다.
     </p>
-</p>
+</br>
 <p align = 'center'>
 <img src = "https://user-images.githubusercontent.com/96767467/197508911-253c7ae4-07e6-4aa4-87fe-a538f9e914a7.PNG" align = 'center' width = "95%" height = "53%">
 </p>
