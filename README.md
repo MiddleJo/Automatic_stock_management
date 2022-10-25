@@ -219,7 +219,7 @@ Github : https://github.com/EDPS-7532<br>
 <img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/102858692/161481240-b1c40cae-21bb-41b4-922d-d34857eaaf58.png"/>
 
 - 문성윤(MOON SEONG YUN)<br><br><br><br><br>
-- 시계열모델, PPT 제작
+-- 시계열모델, PPT 제작
 
 MAIL : msy7367@gmail.com <br>
 
@@ -230,8 +230,7 @@ Github : https://github.com/Syoon0710<br>
 <img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/102858692/161481322-ec6afce7-e8b6-4355-9680-0526d9df6b21.png" />
 
 - 최종원(CHOI JONG WON)<br><br><br><br><br>
-- 시각화, 프레젠테이션
-
+-- 시각화, 프레젠테이션
 MAIL : joanna.jongwon.choi@gmail.com <br>
 
 Github : https://github.com/joannajongwonchoi<br>
