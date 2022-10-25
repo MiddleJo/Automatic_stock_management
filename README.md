@@ -1,6 +1,6 @@
 # 스마트 팩토리 APS 시스템, 재고관리 시스템 구축
 
-<img src = "https://user-images.githubusercontent.com/96767467/168734234-0495ba1f-bc34-441f-8608-a26c13b8b066.png" align = 'center' width = "95%" >
+<img src = "https://user-images.githubusercontent.com/96767467/168734234-0495ba1f-bc34-441f-8608-a26c13b8b066.png" align = 'center' width = "95%" height = "53%">
 
 ### 들어가기 전에
 - 발표영상: https://www.youtube.com/watch?v=U2zhgZl9Igc  
@@ -29,7 +29,7 @@
     </p>
 </br>
 <p>
-<img src = "https://user-images.githubusercontent.com/96767467/197487193-9b81e875-98af-4384-bbae-615861b92136.png" width = "95%" height = "600">
+<img src = "https://user-images.githubusercontent.com/96767467/197487193-9b81e875-98af-4384-bbae-615861b92136.png" width = "95%" height = "53%">
     </p>
 <p> 
 위와 같은 메인 이슈들을 확인하였고, APS시스템을 도입하는 솔루션을 기획하였습니다.
@@ -39,8 +39,8 @@
 ### 1-2 과제 정의
 
 <p align = 'center'>
-<img src = "https://user-images.githubusercontent.com/96767467/197488259-6e4c666d-1cd4-467d-9d62-1242988276a9.PNG" width = "48%" height = "300">
-<img src = "https://user-images.githubusercontent.com/96767467/197488578-5b0f5902-d6a5-4a42-910d-ac2f6719974d.PNG" width = "48%" height = "300">
+<img src = "https://user-images.githubusercontent.com/96767467/197488259-6e4c666d-1cd4-467d-9d62-1242988276a9.PNG" width = "48%" height = "27%">
+<img src = "https://user-images.githubusercontent.com/96767467/197488578-5b0f5902-d6a5-4a42-910d-ac2f6719974d.PNG" width = "48%" height = "27%">
 </p>
 <p>
 APS시스템은 수요 예측을 통해 생산계획 및 자원소요계획에 대해 의사결정을 지원해주는 시스템입니다.  
@@ -54,7 +54,7 @@ APS시스템은 수요 예측을 통해 생산계획 및 자원소요계획에 �
 ### 2-1 시스템 요약도
 
 <p align = 'center'>
-<img src = "https://user-images.githubusercontent.com/96767467/197506297-cc7ae876-6c5f-4fda-b524-b24285bd2f32.PNG" align = 'center' width = "95%" height = "600">
+<img src = "https://user-images.githubusercontent.com/96767467/197506297-cc7ae876-6c5f-4fda-b524-b24285bd2f32.PNG" align = 'center' width = "95%" height = "53%">
 </p>
 
 </br>
@@ -62,8 +62,8 @@ APS시스템은 수요 예측을 통해 생산계획 및 자원소요계획에 �
 ### 2-2 데이터 마트 구축
 
 <p align = 'center'>
-<img src = "https://user-images.githubusercontent.com/96767467/197506479-b9f0e7b5-f754-4507-981e-612df49386a1.PNG" width = "48%" height = "300">
-<img src = "https://user-images.githubusercontent.com/96767467/197506489-fbf59ebd-7625-44de-af33-1de731e579d9.PNG" width = "48%" height = "300">
+<img src = "https://user-images.githubusercontent.com/96767467/197506479-b9f0e7b5-f754-4507-981e-612df49386a1.PNG" width = "48%" height = "27%">
+<img src = "https://user-images.githubusercontent.com/96767467/197506489-fbf59ebd-7625-44de-af33-1de731e579d9.PNG" width = "48%" height = "27%">
 </p>
 <p>
 통일성 없이 흩어진 데이터를 오류 수정 후 통합하여 가공합니다.  
@@ -74,15 +74,15 @@ APS시스템은 수요 예측을 통해 생산계획 및 자원소요계획에 �
 ### 2-3 변수 정의
 
 <p align = 'center'>
-<img src = "https://user-images.githubusercontent.com/96767467/197507093-d132e538-ce06-4a38-be03-ead976ea0c5f.PNG" align = 'center' width = "95%" height = "600">
+<img src = "https://user-images.githubusercontent.com/96767467/197507093-d132e538-ce06-4a38-be03-ead976ea0c5f.PNG" align = 'center' width = "95%" height = "53%">
 </p>
 <p>
 수요 예측은 위와 같은 형태로 진행됩니다.  
 판매량만을 가지고 예측하면 신뢰도가 떨어지므로, 판매량과 관련있는 외부 변수를 정의하고 시계열 모델을 통해 외부 변수를 예측한 뒤 회귀모델을 통해 다시 판매량을 예측합니다.
     </p>
 <p align = 'center'>
-<img src = "https://user-images.githubusercontent.com/96767467/197507707-5e067701-4409-4568-b6ad-84cf0bc3cdf5.PNG" width = "48%" height = "300">
-<img src = "https://user-images.githubusercontent.com/96767467/197507717-8ecf503b-558a-4f6d-af57-4c46e5818e9b.PNG" width = "48%" height = "300">
+<img src = "https://user-images.githubusercontent.com/96767467/197507707-5e067701-4409-4568-b6ad-84cf0bc3cdf5.PNG" width = "48%" height = "27%">
+<img src = "https://user-images.githubusercontent.com/96767467/197507717-8ecf503b-558a-4f6d-af57-4c46e5818e9b.PNG" width = "48%" height = "27%">
 </p>
 <p>
 도메인 지식에 따라 온도, 습도, 강수량, 신적설량이 변수로 선정되었습니다.</br>
@@ -93,13 +93,13 @@ APS시스템은 수요 예측을 통해 생산계획 및 자원소요계획에 �
 ### 2-4 모델 선택
 
 <p align = 'center'>
-<img src = "https://user-images.githubusercontent.com/96767467/197508593-0a34f69b-575d-4c4f-a606-2a310256fd5b.PNG" align = 'center' width = "95%" height = "600">
+<img src = "https://user-images.githubusercontent.com/96767467/197508593-0a34f69b-575d-4c4f-a606-2a310256fd5b.PNG" align = 'center' width = "95%" height = "53%">
 <p>
 외부 변수들을 시계열 모델인 Auto ARIMA와 GRU모델을 통해 증강하고 검증한 R2 스코어는 위와 같고, Auto ARIMA 모델을 최종 선택 하였습니다.
     </p>
 </p>
 <p align = 'center'>
-<img src = "https://user-images.githubusercontent.com/96767467/197508911-253c7ae4-07e6-4aa4-87fe-a538f9e914a7.PNG" align = 'center' width = "95%" height = "600">
+<img src = "https://user-images.githubusercontent.com/96767467/197508911-253c7ae4-07e6-4aa4-87fe-a538f9e914a7.PNG" align = 'center' width = "95%" height = "53%">
 </p>
 <p>
 이제 회귀 모델을 사용하여 판매량을 예측, 검증한 결과입니다.
