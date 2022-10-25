@@ -180,7 +180,7 @@ APS시스템은 수요 예측을 통해 생산계획 및 자원소요계획에 �
 - 조남현(CHO NAM HYEON)</br>
 - 변수 개발, 시계열 모델</br></br></br>
 MAIL : chonh0531@gmail.com</br>
-Github : https://github.com/MiddleJo </br>
+Github : https://github.com/MiddleJo </br></br>
 
 ----
 <img align="left" width="180" height="180"  src="https://user-images.githubusercontent.com/102858692/161480452-fc8d952a-b964-4b44-8a9b-b5eab3652f89.png"/>
@@ -188,13 +188,13 @@ Github : https://github.com/MiddleJo </br>
 - 박광민(PARK KWAMG MIN)</br>
 - DB구축, 발주 자동화</br></br></br>
 MAIL : qkrrhk@gmail.com</br>
-Github : https://github.com/KMP94</br>
+Github : https://github.com/KMP94</br></br>
 
 ----
 <img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/102858692/161481002-6c4f9f96-5ae6-4ea6-b2d0-d0a665b158fa.png"/>
 
 - 김기현(KIM GI HYUN)</br>
-- 변수 개발, 시계열 모델</br></br></br>
+- 변수 개발, 시계열 모델</br></br></br></br>
 MAIL : luckyboy3214@naver.com</br>
 Github : https://github.com/spiner321</br>
 
