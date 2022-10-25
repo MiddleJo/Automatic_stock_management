@@ -194,9 +194,9 @@ Github : https://github.com/KMP94</br></br>
 <img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/102858692/161481002-6c4f9f96-5ae6-4ea6-b2d0-d0a665b158fa.png"/>
 
 - 김기현(KIM GI HYUN)</br>
-- 변수 개발, 시계열 모델</br></br></br></br>
+- 변수 개발, 시계열 모델</br></br></br>
 MAIL : luckyboy3214@naver.com</br>
-Github : https://github.com/spiner321</br>
+Github : https://github.com/spiner321</br></br>
 
 ----
 <img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/102858692/161481162-740c39fb-38d5-469c-9227-21fa9f0c6925.png" />
@@ -204,7 +204,7 @@ Github : https://github.com/spiner321</br>
 - 마경수(MAH KYUNG SOO)</br>
 - DB구축, 사용설명서</br></br></br>
 MAIL : kal198309@hanmail.net</br>
-Github : https://github.com/EDPS-7532</br>
+Github : https://github.com/EDPS-7532</br></br>
 
 ----
 <img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/102858692/161481240-b1c40cae-21bb-41b4-922d-d34857eaaf58.png"/>
@@ -212,7 +212,7 @@ Github : https://github.com/EDPS-7532</br>
 - 문성윤(MOON SEONG YUN)</br>
 - 시계열모델, PPT 제작</br></br></br>
 MAIL : msy7367@gmail.com</br>
-Github : https://github.com/Syoon0710</br>
+Github : https://github.com/Syoon0710</br></br>
 
 ----
 <img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/102858692/161481322-ec6afce7-e8b6-4355-9680-0526d9df6b21.png" />
@@ -220,6 +220,6 @@ Github : https://github.com/Syoon0710</br>
 - 최종원(CHOI JONG WON)</br>
 - 시각화, 프레젠테이션</br></br></br>
 MAIL : joanna.jongwon.choi@gmail.com</br>
-Github : https://github.com/joannajongwonchoi</br>
+Github : https://github.com/joannajongwonchoi</br></br>
 
 ----
