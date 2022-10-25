@@ -175,17 +175,6 @@ APS시스템은 수요 예측을 통해 생산계획 및 자원소요계획에 �
 
 ## 팀원 소개
 ----
-<p>
-<div class = pull-left>
-<img width="180" height="180" src="https://user-images.githubusercontent.com/96767467/175253262-f4614359-abd2-4839-b8d3-0f7b8dd32f53.jpg" />
-    <center>
-    - 조남현(CHO NAM HYEON)</br>
-    - 변수 개발, 시계열 모델</br></br></br>
-    MAIL : chonh0531@gmail.com </br>
-    Github : https://github.com/MiddleJo</br>
-    </center>
-</div>
-</p>
 <img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/96767467/175253262-f4614359-abd2-4839-b8d3-0f7b8dd32f53.jpg" />
 
 - 조남현(CHO NAM HYEON)</br>
@@ -196,52 +185,43 @@ Github : https://github.com/MiddleJo </br>
 ----
 <img align="left" width="180" height="180"  src="https://user-images.githubusercontent.com/102858692/161480452-fc8d952a-b964-4b44-8a9b-b5eab3652f89.png"/>
 
-- 박광민(PARK KWAMG MIN)<br><br><br><br><br>
-- DB구축, 발주 자동화
-
-MAIL : qkrrhk@gmail.com <br>
-
-Github : https://github.com/KMP94<br>
+- 박광민(PARK KWAMG MIN)</br>
+- DB구축, 발주 자동화</br></br></br>
+MAIL : qkrrhk@gmail.com </br>
+Github : https://github.com/KMP94</br>
 
 ----
 <img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/102858692/161481002-6c4f9f96-5ae6-4ea6-b2d0-d0a665b158fa.png"/>
 
-- 김기현(KIM GI HYUN)<br><br><br><br><br>
-- 변수 개발, 시계열 모델
-
-MAIL : luckyboy3214@naver.com <br>
-
-Github : https://github.com/spiner321<br>
+- 김기현(KIM GI HYUN)</br>
+- 변수 개발, 시계열 모델</br></br></br>
+MAIL : luckyboy3214@naver.com </br>
+Github : https://github.com/spiner321</br>
 
 ----
 <img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/102858692/161481162-740c39fb-38d5-469c-9227-21fa9f0c6925.png" />
 
-- 마경수(MAH KYUNG SOO)<br><br><br><br><br>
-- DB구축, 사용설명서
-
-MAIL : kal198309@hanmail.net <br>
-
-Github : https://github.com/EDPS-7532<br>
+- 마경수(MAH KYUNG SOO)</br>
+- DB구축, 사용설명서</br></br></br>
+MAIL : kal198309@hanmail.net </br>
+Github : https://github.com/EDPS-7532</br>
 
 ----
 
 <img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/102858692/161481240-b1c40cae-21bb-41b4-922d-d34857eaaf58.png"/>
 
-- 문성윤(MOON SEONG YUN)<br><br><br><br><br>
--- 시계열모델, PPT 제작
-
-MAIL : msy7367@gmail.com <br>
-
-Github : https://github.com/Syoon0710<br>
+- 문성윤(MOON SEONG YUN)</br>
+- 시계열모델, PPT 제작</br></br></br>
+MAIL : msy7367@gmail.com </br>
+Github : https://github.com/Syoon0710</br>
 
 ----
 
 <img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/102858692/161481322-ec6afce7-e8b6-4355-9680-0526d9df6b21.png" />
 
-- 최종원(CHOI JONG WON)<br><br><br><br><br>
--- 시각화, 프레젠테이션
-MAIL : joanna.jongwon.choi@gmail.com <br>
-
-Github : https://github.com/joannajongwonchoi<br>
+- 최종원(CHOI JONG WON)</br>
+- 시각화, 프레젠테이션</br></br></br>
+MAIL : joanna.jongwon.choi@gmail.com </br>
+Github : https://github.com/joannajongwonchoi</br>
 
 ----
