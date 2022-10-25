@@ -179,21 +179,19 @@ APS시스템은 수요 예측을 통해 생산계획 및 자원소요계획에 �
 <div class = pull-left>
 <img width="180" height="180" src="https://user-images.githubusercontent.com/96767467/175253262-f4614359-abd2-4839-b8d3-0f7b8dd32f53.jpg" />
     <center>
-    - 조남현(CHO NAM HYEON)<br>
-        - 변수 개발, 시계열 모델<br><br><br>
-    
-    MAIL : chonh0531@gmail.com <br>
-    Github : https://github.com/MiddleJo<br>
-    
+    - 조남현(CHO NAM HYEON)</br>
+    - 변수 개발, 시계열 모델</br></br></br>
+    MAIL : chonh0531@gmail.com </br>
+    Github : https://github.com/MiddleJo</br>
     </center>
 </div>
 </p>
 <img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/96767467/175253262-f4614359-abd2-4839-b8d3-0f7b8dd32f53.jpg" />
 
-- 조남현(CHO NAM HYEON)<br><br><br><br><br>
-    - 변수 개발, 시계열 모델
-MAIL : chonh0531@gmail.com <br>
-Github : https://github.com/MiddleJo<br>
+- 조남현(CHO NAM HYEON)</br>
+- 변수 개발, 시계열 모델</br></br></br>
+MAIL : chonh0531@gmail.com </br>
+Github : https://github.com/MiddleJo </br>
 
 ----
 <img align="left" width="180" height="180"  src="https://user-images.githubusercontent.com/102858692/161480452-fc8d952a-b964-4b44-8a9b-b5eab3652f89.png"/>
