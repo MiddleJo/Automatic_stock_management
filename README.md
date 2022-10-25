@@ -22,7 +22,7 @@
 
 ### 1-1 비즈니스 이슈
 <p align = 'center'>
-<img src = "https://user-images.githubusercontent.com/96767467/197486303-3a25f9da-5093-4ff0-8733-60b17f7be90e.png" width = "95%" height = "600">
+<img src = "https://user-images.githubusercontent.com/96767467/197486303-3a25f9da-5093-4ff0-8733-60b17f7be90e.png" width = "95%" height = "53%">
     </p>
 <P>
 이번 과제를 받은 회사는 콘크리트 혼화제 유통 회사로, 생산계획 및 원자재 발주 부분에서 대부분의 문제들이 발생하고 있었습니다.
