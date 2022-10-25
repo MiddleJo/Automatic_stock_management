@@ -164,7 +164,7 @@ APS시스템은 수요 예측을 통해 생산계획 및 자원소요계획에 �
 ## 4. 데모 시연
 
 <p>
-<img src = "https://user-images.githubusercontent.com/96767467/197737971-35588c52-cb1e-41ee-ac6b-dc9cde13bcef.PNG" align = 'center' width = 95% height = "53%">
+<img src = "https://user-images.githubusercontent.com/96767467/197756850-bacdd86f-82f5-4bb2-8912-b80c2595bc51.gif" align = 'center' width = 95% height = "53%">
 </p>
 <p>
 시연 영상을 16배속으로 간단히 보여드립니다.</br>
