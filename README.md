@@ -207,7 +207,6 @@ MAIL : kal198309@hanmail.net
 Github : https://github.com/EDPS-7532</br>
 
 ----
-
 <img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/102858692/161481240-b1c40cae-21bb-41b4-922d-d34857eaaf58.png"/>
 
 - 문성윤(MOON SEONG YUN)</br>
@@ -216,7 +215,6 @@ MAIL : msy7367@gmail.com
 Github : https://github.com/Syoon0710</br>
 
 ----
-
 <img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/102858692/161481322-ec6afce7-e8b6-4355-9680-0526d9df6b21.png" />
 
 - 최종원(CHOI JONG WON)</br>
