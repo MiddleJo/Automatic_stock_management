@@ -16,7 +16,7 @@
 [2. 모델링](#2-모델링)</br>
 [3. 활용방안 및 기대효과](#3-활용방안-및-기대효과)</br>
 [4. 데모 시연](#4-데모-시연)</br>
-[팀원 소개](#팀원-소개)</br>
+[5. 팀원 소개](#팀원-소개)</br>
 </br>
 
 ---
@@ -163,15 +163,13 @@ APS시스템은 수요 예측을 통해 생산계획 및 자원소요계획에 �
 </br>
 
 ## 4. 데모 시연
-![시연영상_16배속](https://user-images.githubusercontent.com/96767467/197757181-e0b51e02-8fc9-457e-87f7-20e905818d45.gif)
-
 <p>
 <img src = "https://user-images.githubusercontent.com/96767467/197756850-bacdd86f-82f5-4bb2-8912-b80c2595bc51.gif" align = 'center' width = 95% height = "53%">
 </p>
-<p>
-시연 영상을 16배속으로 간단히 보여드립니다.</br>
-자세한 사항이 궁금하시면 [발표영상](https://www.youtube.com/watch?v=U2zhgZl9Igc) 참고해 주세요.
-</p>
+
+시연 영상을 16배속으로 간단히 보여드립니다.
+자세한 사항이 궁금하시면 [발표영상](https://www.youtube.com/watch?v=U2zhgZl9Igc)을 참고해 주세요.
+
 </br>
 </br>
 
@@ -180,32 +178,32 @@ APS시스템은 수요 예측을 통해 생산계획 및 자원소요계획에 �
 <img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/96767467/175253262-f4614359-abd2-4839-b8d3-0f7b8dd32f53.jpg" />
 
 - 조남현(CHO NAM HYEON)</br>
-- 변수 개발, 시계열 모델</br></br></br>
-MAIL : chonh0531@gmail.com </br>
+- 변수 개발, 시계열 모델</br></br>
+MAIL : chonh0531@gmail.com
 Github : https://github.com/MiddleJo </br>
 
 ----
 <img align="left" width="180" height="180"  src="https://user-images.githubusercontent.com/102858692/161480452-fc8d952a-b964-4b44-8a9b-b5eab3652f89.png"/>
 
 - 박광민(PARK KWAMG MIN)</br>
-- DB구축, 발주 자동화</br></br></br>
-MAIL : qkrrhk@gmail.com </br>
+- DB구축, 발주 자동화</br></br>
+MAIL : qkrrhk@gmail.com
 Github : https://github.com/KMP94</br>
 
 ----
 <img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/102858692/161481002-6c4f9f96-5ae6-4ea6-b2d0-d0a665b158fa.png"/>
 
 - 김기현(KIM GI HYUN)</br>
-- 변수 개발, 시계열 모델</br></br></br>
-MAIL : luckyboy3214@naver.com </br>
+- 변수 개발, 시계열 모델</br></br>
+MAIL : luckyboy3214@naver.com
 Github : https://github.com/spiner321</br>
 
 ----
 <img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/102858692/161481162-740c39fb-38d5-469c-9227-21fa9f0c6925.png" />
 
 - 마경수(MAH KYUNG SOO)</br>
-- DB구축, 사용설명서</br></br></br>
-MAIL : kal198309@hanmail.net </br>
+- DB구축, 사용설명서</br></br>
+MAIL : kal198309@hanmail.net
 Github : https://github.com/EDPS-7532</br>
 
 ----
@@ -213,8 +211,8 @@ Github : https://github.com/EDPS-7532</br>
 <img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/102858692/161481240-b1c40cae-21bb-41b4-922d-d34857eaaf58.png"/>
 
 - 문성윤(MOON SEONG YUN)</br>
-- 시계열모델, PPT 제작</br></br></br>
-MAIL : msy7367@gmail.com </br>
+- 시계열모델, PPT 제작</br></br>
+MAIL : msy7367@gmail.com
 Github : https://github.com/Syoon0710</br>
 
 ----
@@ -222,8 +220,8 @@ Github : https://github.com/Syoon0710</br>
 <img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/102858692/161481322-ec6afce7-e8b6-4355-9680-0526d9df6b21.png" />
 
 - 최종원(CHOI JONG WON)</br>
-- 시각화, 프레젠테이션</br></br></br>
-MAIL : joanna.jongwon.choi@gmail.com </br>
+- 시각화, 프레젠테이션</br></br>
+MAIL : joanna.jongwon.choi@gmail.com
 Github : https://github.com/joannajongwonchoi</br>
 
 ----
