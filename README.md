@@ -100,7 +100,8 @@ APS시스템은 수요 예측을 통해 생산계획 및 자원소요계획에 �
 <img src = "https://user-images.githubusercontent.com/96767467/197508593-0a34f69b-575d-4c4f-a606-2a310256fd5b.PNG" align = 'center' width = "95%" height = "53%">
 </p>
 <p>
-외부 변수들을 시계열 모델인 Auto ARIMA와 GRU모델을 통해 증강하고 검증한 R2 스코어는 위와 같고, Auto ARIMA 모델을 최종 선택 하였습니다.
+외부 변수들을 시계열 모델인 Auto ARIMA와 GRU모델을 통해 증강하고 검증한 R2 스코어는 위와 같고, Auto ARIMA 모델을 최종 선택 하였습니다.  
+외부 변수들을 예측하는 과정은 [autoarima](https://github.com/MiddleJo/Automatic_stock_management/blob/main/code/auto_arima.ipynb) 노트를 확인해 주시기 바랍니다.
     </p>
 </br>
 <p align = 'center'>
