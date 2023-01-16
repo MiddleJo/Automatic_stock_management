@@ -7,6 +7,7 @@
 - 콘크리트 혼화제 회사에서 제공받은 데이터를 활용하여 APS 시스템 구축 및 업무 효율 향상 프로젝트입니다.  
 - 한정된 데이터만 제공받아 데이터를 증식하여 활용하였습니다. (시계열분석과 변수를 적용하여 증식)  
 - 자세한 내용은 [소스코드](https://github.com/MiddleJo/Automatic_stock_management/tree/main/code) 혹은 pdf를 참고해 주시기 바랍니다.
+- 외부변수 예측과정은 [autoarima](https://github.com/MiddleJo/Automatic_stock_management/blob/main/code/auto_arima.ipynb) 노트에 설명되어 있습니다.
 - 마지막 Tableau 데모 부분은 영상 참고해주시면 감사하겠습니다. 
 </br>
 
