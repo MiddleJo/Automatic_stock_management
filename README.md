@@ -10,7 +10,7 @@
 - 외부변수 예측과정은 [autoarima](https://github.com/MiddleJo/Automatic_stock_management/blob/main/code/auto_arima.ipynb) 노트에 설명되어 있습니다.
 - 마지막 Tableau 데모 부분은 영상 참고해주시면 감사하겠습니다. 
 </br>
-
+ 
 ### 목차
 
 [1. 기획 및 과제 정의](#1-기획)</br>
